@@ -1,0 +1,5 @@
+.env
+credenciales.json
+contabilidad.db
+__pycache__/
+*.pyc 
